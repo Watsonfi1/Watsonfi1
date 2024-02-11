@@ -1,4 +1,4 @@
-### Hi there 👋
+### Finlay Watson
 
 <!--
 **Watsonfi1/Watsonfi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
